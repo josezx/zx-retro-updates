@@ -2,16 +2,16 @@
     "product":  "ZX Retro",
     "schema_version":  1,
     "channel":  "development",
-    "generated_at":  "2026-08-23T21:56:47",
+    "generated_at":  "2026-08-23T23:18:26",
     "releases":  [
                      {
-                         "version":  "0.1.6",
+                         "version":  "0.1.7",
                          "type":  "program",
-                         "package_name":  "ZX_Retro_Program_0.1.6_2026-08-23_213209.zip",
-                         "sha256":  "ef9d755fc9a104296fcc04931a1ebc752c613f07e0eca42427041c837aeac4aa",
-                         "size_bytes":  148485,
-                         "url":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.6/ZX_Retro_Program_0.1.6_2026-08-23_213209.zip",
-                         "notes":  "Primera version publicada para validar el sistema de actualizaciones remotas de ZX Retro."
+                         "package_name":  "ZX_Retro_Program_0.1.7_2026-08-23_231825.zip",
+                         "sha256":  "4c79e348be693c02e43211787e05ee12f7a223c2ceed875863c281f044a622dd",
+                         "size_bytes":  148490,
+                         "url":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.7/ZX_Retro_Program_0.1.7_2026-08-23_231825.zip",
+                         "notes":  "Primera actualizacion completa de ZX Retro probada desde Internet."
                      }
                  ]
 }

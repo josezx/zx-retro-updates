@@ -2,8 +2,17 @@
     "product":  "ZX Retro",
     "schema_version":  1,
     "channel":  "development",
-    "generated_at":  "2026-08-24T00:28:41",
+    "generated_at":  "2026-08-24T01:25:07",
     "releases":  [
+                     {
+                         "version":  "0.1.8",
+                         "type":  "program",
+                         "package_name":  "ZX_Retro_Program_0.1.8_2026-08-24_012142.zip",
+                         "sha256":  "0b3c8da5fb7f33685fcd092e43f6f4540e55d136858dbfe014360206d61fb6ff",
+                         "size_bytes":  150920,
+                         "url":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.8/ZX_Retro_Program_0.1.8_2026-08-24_012142.zip",
+                         "notes":  "Actualiza el launcher de ZX Retro con aviso automatico remoto y canales separados de Programa/Contenido."
+                     },
                      {
                          "version":  "0.1.7",
                          "type":  "program",

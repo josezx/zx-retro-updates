@@ -1,0 +1,17 @@
+{
+    "product":  "ZX Retro",
+    "schema_version":  1,
+    "channel":  "development",
+    "generated_at":  "2026-08-23T21:56:47",
+    "releases":  [
+                     {
+                         "version":  "0.1.6",
+                         "type":  "program",
+                         "package_name":  "ZX_Retro_Program_0.1.6_2026-08-23_213209.zip",
+                         "sha256":  "ef9d755fc9a104296fcc04931a1ebc752c613f07e0eca42427041c837aeac4aa",
+                         "size_bytes":  148485,
+                         "url":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.6/ZX_Retro_Program_0.1.6_2026-08-23_213209.zip",
+                         "notes":  "Primera version publicada para validar el sistema de actualizaciones remotas de ZX Retro."
+                     }
+                 ]
+}

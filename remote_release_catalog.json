@@ -2,7 +2,7 @@
     "product":  "ZX Retro",
     "schema_version":  1,
     "channel":  "development",
-    "generated_at":  "2026-08-23T23:18:26",
+    "generated_at":  "2026-08-24T00:28:41",
     "releases":  [
                      {
                          "version":  "0.1.7",
@@ -12,6 +12,15 @@
                          "size_bytes":  148490,
                          "url":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.7/ZX_Retro_Program_0.1.7_2026-08-23_231825.zip",
                          "notes":  "Primera actualizacion completa de ZX Retro probada desde Internet."
+                     },
+                     {
+                         "version":  "0.1.8",
+                         "type":  "content",
+                         "package_name":  "ZX_Retro_Content_0.1.8_2026-08-24_002554.zip",
+                         "sha256":  "71b45b5d32f5753cb1dd3bef0a230196b09d63967e11bb80d235069e4e3007dc",
+                         "size_bytes":  833,
+                         "url":  "https://github.com/josezx/zx-retro-updates/releases/download/content-v0.1.8/ZX_Retro_Content_0.1.8_2026-08-24_002554.zip",
+                         "notes":  "Primer paquete remoto de contenido de ZX Retro. Validacion segura del canal CONTENT sin ROM comercial."
                      }
                  ]
 }

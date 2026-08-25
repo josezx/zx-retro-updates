@@ -1,11 +1,10 @@
-﻿{
+{
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.12-test1",
-    "packageFile":  "ZX_Retro_Update_0_1_12-test1.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.12-test1/ZX_Retro_Update_0_1_12-test1.zip",
-    "sha256":  "88c148dd1d1c9dfdb17cedc3917b3a2e6ba6856a0a69e8457b5022e6ffa025e5",
+    "latestVersion":  "0.1.10",
+    "packageFile":  "ZX_Retro_Update_0_1_10.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.10/ZX_Retro_Update_0_1_10.zip",
+    "sha256":  "e39775c6ba9606386a1cc2fe3840905e3c58573dcf149d21ab7ac63c8d3b1549",
     "notes":  [
-                  "Prueba real del canal de actualizaciones por Internet.",
-                  "Incluye el actualizador online de ZX Retro."
+                  "Actualizacion oficial de ZX Retro 0.1.10."
               ]
 }

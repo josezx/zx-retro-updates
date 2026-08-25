@@ -1,10 +1,10 @@
-{
+﻿{
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.10",
-    "packageFile":  "ZX_Retro_Update_0_1_10.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.10/ZX_Retro_Update_0_1_10.zip",
-    "sha256":  "e39775c6ba9606386a1cc2fe3840905e3c58573dcf149d21ab7ac63c8d3b1549",
+    "latestVersion":  "0.1.11",
+    "packageFile":  "ZX_Retro_Update_0_1_11.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.11/ZX_Retro_Update_0_1_11.zip",
+    "sha256":  "134089223b0cab76d68881b0e2f442ab6ea2a63033d39a8dfe0d221eea899376",
     "notes":  [
-                  "Actualizacion oficial de ZX Retro 0.1.10."
+                  "Nueva pantalla Acerca de ZX Retro,Creditos TEAM ZX,Metadatos oficiales de version,Mejoras en Configuracion"
               ]
 }

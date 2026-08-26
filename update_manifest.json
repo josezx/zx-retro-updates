@@ -1,12 +1,10 @@
 {
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.15",
-    "packageFile":  "ZX_Retro_Update_0_1_15.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.15/ZX_Retro_Update_0_1_15.zip",
-    "sha256":  "25c1acbfa67c14abccd926e84961220c523a0de327b618aa66c4925ad2ed8004",
+    "latestVersion":  "0.1.16",
+    "packageFile":  "ZX_Retro_Update_0_1_16.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.16/ZX_Retro_Update_0_1_16.zip",
+    "sha256":  "1bea8ef39ece0394bd446619f35c3264eda2701a6f33635c7f7d4a48efd01166",
     "notes":  [
-                  "Actualizador migrado a GitHub API para evitar cache del manifest",
-                  "Notas de actualizacion separadas correctamente",
-                  "Mejoras de robustez del sistema de actualizacion"
+                  "Nuevo catalogo de juegos de PlayStation 2 con nuevas fichas y contenido visual disponible.,Se crean automaticamente las carpetas de PS1, PS2 y PSP donde el usuario puede colocar sus propios juegos.,Algunos juegos incluyen inicialmente solo su ficha y recibiran assets visuales en futuras actualizaciones.,Las ROMs, partidas guardadas, estados y emuladores del usuario permanecen protegidos."
               ]
 }

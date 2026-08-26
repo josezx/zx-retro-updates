@@ -1,10 +1,10 @@
-﻿{
+{
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.11",
-    "packageFile":  "ZX_Retro_Update_0_1_11.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.11/ZX_Retro_Update_0_1_11.zip",
-    "sha256":  "134089223b0cab76d68881b0e2f442ab6ea2a63033d39a8dfe0d221eea899376",
+    "latestVersion":  "0.1.12",
+    "packageFile":  "ZX_Retro_Update_0_1_12.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.12/ZX_Retro_Update_0_1_12.zip",
+    "sha256":  "24ca6cd7e9a5f0b4580467beb3f92b1578cd658aabf44fd34cd3b2330c65f10d",
     "notes":  [
-                  "Nueva pantalla Acerca de ZX Retro,Creditos TEAM ZX,Metadatos oficiales de version,Mejoras en Configuracion"
+                  "Actualizacion de banners,Contra banner actualizado,Crash Bash banner actualizado,Streets of Rage banner actualizado"
               ]
 }

@@ -1,10 +1,10 @@
 {
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.12",
-    "packageFile":  "ZX_Retro_Update_0_1_12.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.12/ZX_Retro_Update_0_1_12.zip",
-    "sha256":  "24ca6cd7e9a5f0b4580467beb3f92b1578cd658aabf44fd34cd3b2330c65f10d",
+    "latestVersion":  "0.1.13",
+    "packageFile":  "ZX_Retro_Update_0_1_13.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.13/ZX_Retro_Update_0_1_13.zip",
+    "sha256":  "9b0ed34130d3c7f354298c3890e64115a9b112b960e9e099581496b199693a03",
     "notes":  [
-                  "Actualizacion de banners,Contra banner actualizado,Crash Bash banner actualizado,Streets of Rage banner actualizado"
+                  "Prueba integral de restauracion 9.5C.3.,Probe inocuo para validar actualizacion y rollback.,Sin cambios en ROMs, partidas, estados ni emuladores."
               ]
 }

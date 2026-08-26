@@ -1,10 +1,12 @@
 {
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.14",
-    "packageFile":  "ZX_Retro_Update_0_1_14.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.14/ZX_Retro_Update_0_1_14.zip",
-    "sha256":  "a184297e36ea7f3acf68747381182487b3caedac1fff8ec53c160f0a2fd96a38",
+    "latestVersion":  "0.1.15",
+    "packageFile":  "ZX_Retro_Update_0_1_15.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.15/ZX_Retro_Update_0_1_15.zip",
+    "sha256":  "25c1acbfa67c14abccd926e84961220c523a0de327b618aa66c4925ad2ed8004",
     "notes":  [
-                  "Integra restauracion segura en actualizaciones.,Incluye historial y motor de rollback.,Cierre controlado si ZX Retro no responde."
+                  "Actualizador migrado a GitHub API para evitar cache del manifest",
+                  "Notas de actualizacion separadas correctamente",
+                  "Mejoras de robustez del sistema de actualizacion"
               ]
 }

@@ -1,10 +1,10 @@
 {
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.16",
-    "packageFile":  "ZX_Retro_Update_0_1_16.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.16/ZX_Retro_Update_0_1_16.zip",
-    "sha256":  "1bea8ef39ece0394bd446619f35c3264eda2701a6f33635c7f7d4a48efd01166",
+    "latestVersion":  "0.1.17",
+    "packageFile":  "ZX_Retro_Update_0_1_17.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.17/ZX_Retro_Update_0_1_17.zip",
+    "sha256":  "c15e0d8010b023b1b0b136937eb3b2ee106da18a379a9bac606288a53cf97eca",
     "notes":  [
-                  "Nuevo catalogo de juegos de PlayStation 2 con nuevas fichas y contenido visual disponible.,Se crean automaticamente las carpetas de PS1, PS2 y PSP donde el usuario puede colocar sus propios juegos.,Algunos juegos incluyen inicialmente solo su ficha y recibiran assets visuales en futuras actualizaciones.,Las ROMs, partidas guardadas, estados y emuladores del usuario permanecen protegidos."
+                  "Correccion para crear automaticamente las carpetas preparadas de PS1, PS2 y PSP.,Los usuarios que actualizaron a 0.1.16 reciben ahora las carpetas ROM pendientes.,No se modifican ROMs, partidas guardadas, estados ni emuladores."
               ]
 }

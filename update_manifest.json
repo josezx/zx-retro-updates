@@ -1,10 +1,10 @@
 {
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.17",
-    "packageFile":  "ZX_Retro_Update_0_1_17.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.17/ZX_Retro_Update_0_1_17.zip",
-    "sha256":  "c15e0d8010b023b1b0b136937eb3b2ee106da18a379a9bac606288a53cf97eca",
+    "latestVersion":  "0.1.18",
+    "packageFile":  "ZX_Retro_Update_0_1_18.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.18/ZX_Retro_Update_0_1_18.zip",
+    "sha256":  "f30242154adba184d4356dfc7ddff85158eeb6f59eed51d26193b6d294f9950e",
     "notes":  [
-                  "Correccion para crear automaticamente las carpetas preparadas de PS1, PS2 y PSP.,Los usuarios que actualizaron a 0.1.16 reciben ahora las carpetas ROM pendientes.,No se modifican ROMs, partidas guardadas, estados ni emuladores."
+                  "Catalogo hibrido para PS1, PS2 y PSP: los juegos sin ROM aparecen con portada atenuada.,Los juegos sin ROM quedan bloqueados de forma segura y ZX Retro indica donde colocar el archivo.,Mejora visual en la ficha del juego con TIEMPO JUGADO mejor separado.,Actualizador renovado con resumen de cambios y proteccion visible de ROMs, partidas, estados y emuladores."
               ]
 }

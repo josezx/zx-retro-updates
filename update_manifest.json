@@ -1,11 +1,11 @@
 {
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.19",
-    "packageFile":  "ZX_Retro_Update_0_1_19.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.19/ZX_Retro_Update_0_1_19.zip",
-    "sha256":  "bca36b313c56782cd1ef62efd3b94ab506c6099e72647faf70e985691fc3bee5",
-    "deletedAssetsCount":  0,
+    "latestVersion":  "0.1.20",
+    "packageFile":  "ZX_Retro_Update_0_1_20.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.20/ZX_Retro_Update_0_1_20.zip",
+    "sha256":  "d74f10e0a8ec603d614afb6816878a65235b17fa5c75aa6695f6225eb9e2a90d",
+    "deletedAssetsCount":  3,
     "notes":  [
-                  "Nuevo progreso visual del actualizador con etapas de descarga, verificacion, backup, instalacion y completado.,El actualizador muestra el backup creado y el estado real de la instalacion.,Correccion del registro de version anterior para generar backups e historial correctamente.,Mejora del control de finalizacion para evitar falsos errores al completar una actualizacion.,Se instala soporte seguro para eliminaciones y renombrados de assets en futuras actualizaciones.,ROMs, partidas, estados, configuraciones y emuladores permanecen protegidos."
+                  "Se actualizan assets visuales de Crash Bandicoot The Wrath of Cortex.,Se actualiza el preview de Pro Evolution Soccer 2010.,Se eliminan assets antiguos reemplazados por los nuevos nombres estandarizados.,El actualizador usa eliminacion segura con validacion SHA y backup previo.,ROMs, partidas, estados, configuraciones y emuladores permanecen protegidos."
               ]
 }

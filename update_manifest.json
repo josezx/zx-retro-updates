@@ -1,10 +1,11 @@
 {
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.18",
-    "packageFile":  "ZX_Retro_Update_0_1_18.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.18/ZX_Retro_Update_0_1_18.zip",
-    "sha256":  "f30242154adba184d4356dfc7ddff85158eeb6f59eed51d26193b6d294f9950e",
+    "latestVersion":  "0.1.19",
+    "packageFile":  "ZX_Retro_Update_0_1_19.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.19/ZX_Retro_Update_0_1_19.zip",
+    "sha256":  "bca36b313c56782cd1ef62efd3b94ab506c6099e72647faf70e985691fc3bee5",
+    "deletedAssetsCount":  0,
     "notes":  [
-                  "Catalogo hibrido para PS1, PS2 y PSP: los juegos sin ROM aparecen con portada atenuada.,Los juegos sin ROM quedan bloqueados de forma segura y ZX Retro indica donde colocar el archivo.,Mejora visual en la ficha del juego con TIEMPO JUGADO mejor separado.,Actualizador renovado con resumen de cambios y proteccion visible de ROMs, partidas, estados y emuladores."
+                  "Nuevo progreso visual del actualizador con etapas de descarga, verificacion, backup, instalacion y completado.,El actualizador muestra el backup creado y el estado real de la instalacion.,Correccion del registro de version anterior para generar backups e historial correctamente.,Mejora del control de finalizacion para evitar falsos errores al completar una actualizacion.,Se instala soporte seguro para eliminaciones y renombrados de assets en futuras actualizaciones.,ROMs, partidas, estados, configuraciones y emuladores permanecen protegidos."
               ]
 }

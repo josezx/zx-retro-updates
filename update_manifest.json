@@ -6,6 +6,17 @@
     "sha256":  "bb545bc91b310845a25f00861caf1d9020c38e63176b303eb265ef9f70f13874",
     "deletedAssetsCount":  0,
     "notes":  [
-                  "Actualizacion oficial de ZX Retro 0.1.22."
+                  "Nuevo sistema STEAM GREEN para ejecutar juegos nativos de Windows",
+                  "Agregar juegos de PC directamente desde la interfaz de ZX Retro",
+                  "Editor completo de ficha con portada, banner, logo, preview y metadatos",
+                  "Rutas portables mediante STEAMGREEN_ROOT para mover la biblioteca entre equipos",
+                  "Partidas portables almacenadas fisicamente dentro de la carpeta de cada juego",
+                  "Migracion segura de partidas mediante junctions NTFS",
+                  "Save Doctor para detectar, verificar y reparar rutas de partidas",
+                  "Deteccion automatica de saves en Documentos, OneDrive, Saved Games y AppData",
+                  "Proteccion contra mezcla o sobrescritura accidental de partidas diferentes",
+                  "Estado visible de partida portable y junction en la ficha del juego",
+                  "Mejoras visuales y de distribucion en las fichas de todos los sistemas",
+                  "Mejor separacion de Ultima partida y Tiempo jugado en todas las consolas"
               ]
 }

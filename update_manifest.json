@@ -1,14 +1,11 @@
 {
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.21",
-    "packageFile":  "ZX_Retro_Update_0_1_21.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.21/ZX_Retro_Update_0_1_21.zip",
-    "sha256":  "da55442189e9251aac86c4471acb7b58e4e04c5986c87ed06ca243e839df21e3",
+    "latestVersion":  "0.1.22",
+    "packageFile":  "ZX_Retro_Update_0_1_22.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.22/ZX_Retro_Update_0_1_22.zip",
+    "sha256":  "bb545bc91b310845a25f00861caf1d9020c38e63176b303eb265ef9f70f13874",
     "deletedAssetsCount":  0,
     "notes":  [
-                  "Boton CREDITOS agregado para MAME y NeoGeo",
-                  "Soporte para insertar varios creditos consecutivos desde el menu de pausa",
-                  "Sonido personalizado al insertar creditos",
-                  "Historial mejorado para registrar assets eliminados"
+                  "Actualizacion oficial de ZX Retro 0.1.22."
               ]
 }

@@ -1,16 +1,15 @@
 {
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.24",
-    "packageFile":  "ZX_Retro_Update_0_1_24.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.24/ZX_Retro_Update_0_1_24.zip",
-    "sha256":  "69426023fe7792fcedfe6b9ba5da35e841e0465e5fa78697504c723f8a1fcb24",
+    "latestVersion":  "0.1.25",
+    "packageFile":  "ZX_Retro_Update_0_1_25.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.25/ZX_Retro_Update_0_1_25.zip",
+    "sha256":  "f30ac6adbf3236743450e310d4e4121fb061a16b79d59d99d0f35c0f40f63940",
     "deletedAssetsCount":  1,
     "notes":  [
-                  "Añadido soporte hotplug de mandos en ZX Retro",
-                  "Los mandos conectados después de iniciar ZX Retro ahora son detectados automáticamente",
-                  "Mejorada la reconexión de mandos sin necesidad de reiniciar el programa",
-                  "Sincronizados nuevos assets de juegos en STEAM GREEN y MAME",
-                  "Añadidos los assets completos de Pump It Up The PREX 2 en STEAM GREEN",
-                  "Actualizado el preview de Marvel vs. Capcom en MAME al formato preview.mp4"
+                  "Corregida la transición entre ZX Retro y ZX Retro Player",
+                  "NeoGeo, MAME y los sistemas Libretro ahora pasan correctamente al juego al iniciar",
+                  "Al cerrar ZX Retro Player, ZX Retro vuelve automáticamente al frente y en pantalla completa",
+                  "Se mantienen intactos los créditos de NeoGeo y MAME, partidas, estados y cores",
+                  "Actualizado el preview de Dragon Ball Z - Sagas en PS2 al formato preview.mp4"
               ]
 }

@@ -1,13 +1,14 @@
 {
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.23",
-    "packageFile":  "ZX_Retro_Update_0_1_23.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.23/ZX_Retro_Update_0_1_23.zip",
-    "sha256":  "3be0980d0eb57b1e5e4c340414944b50c3553bbfd1f593f8c9a3249a2dc1915a",
-    "deletedAssetsCount":  0,
+    "latestVersion":  "0.1.24",
+    "packageFile":  "ZX_Retro_Update_0_1_24.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.24/ZX_Retro_Update_0_1_24.zip",
+    "sha256":  "69426023fe7792fcedfe6b9ba5da35e841e0465e5fa78697504c723f8a1fcb24",
+    "deletedAssetsCount":  1,
     "notes":  [
-                  "Corregida la persistencia de los ajustes visuales de banner y logo en STEAM GREEN",
-                  "Los cambios de posicion y escala ahora se guardan correctamente tanto en runtime como en los assets originales",
-                  "Restauradas las posiciones y tamaños personalizados de banner y logo de los juegos STEAM GREEN"
+                  "Añadido soporte hotplug de mandos en ZX Retro",
+                  "Los mandos conectados después de iniciar ZX Retro ahora son detectados automáticamente",
+                  "Mejorada la reconexión de mandos sin necesidad de reiniciar el programa",
+                  "Sincronizados nuevos assets de juegos en STEAM GREEN y MAME"
               ]
 }

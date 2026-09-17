@@ -9,6 +9,8 @@
                   "Añadido soporte hotplug de mandos en ZX Retro",
                   "Los mandos conectados después de iniciar ZX Retro ahora son detectados automáticamente",
                   "Mejorada la reconexión de mandos sin necesidad de reiniciar el programa",
-                  "Sincronizados nuevos assets de juegos en STEAM GREEN y MAME"
+                  "Sincronizados nuevos assets de juegos en STEAM GREEN y MAME",
+                  "Añadidos los assets completos de Pump It Up The PREX 2 en STEAM GREEN",
+                  "Actualizado el preview de Marvel vs. Capcom en MAME al formato preview.mp4"
               ]
 }

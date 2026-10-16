@@ -1,15 +1,11 @@
 {
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.25",
-    "packageFile":  "ZX_Retro_Update_0_1_25.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.25/ZX_Retro_Update_0_1_25.zip",
-    "sha256":  "f30ac6adbf3236743450e310d4e4121fb061a16b79d59d99d0f35c0f40f63940",
+    "latestVersion":  "0.1.26",
+    "packageFile":  "ZX_Retro_Update_0_1_26.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.26/ZX_Retro_Update_0_1_26.zip",
+    "sha256":  "67060ecef459d11b8fed26711e9b03c1029f2b3fb0216a2ca7413d96beac7fe9",
     "deletedAssetsCount":  1,
     "notes":  [
-                  "Corregida la transición entre ZX Retro y ZX Retro Player",
-                  "NeoGeo, MAME y los sistemas Libretro ahora pasan correctamente al juego al iniciar",
-                  "Al cerrar ZX Retro Player, ZX Retro vuelve automáticamente al frente y en pantalla completa",
-                  "Se mantienen intactos los créditos de NeoGeo y MAME, partidas, estados y cores",
-                  "Actualizado el preview de Dragon Ball Z - Sagas en PS2 al formato preview.mp4"
+                  "Actualizacion oficial de ZX Retro 0.1.26."
               ]
 }

@@ -1,18 +1,17 @@
 {
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.29",
-    "packageFile":  "ZX_Retro_Update_0_1_29.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.29/ZX_Retro_Update_0_1_29.zip",
-    "sha256":  "8390c5aafd6ed9f9193d275475bf67dd3c73c918e83edba0bcadd114638bfd5f",
+    "latestVersion":  "0.1.30",
+    "packageFile":  "ZX_Retro_Update_0_1_30.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.30/ZX_Retro_Update_0_1_30.zip",
+    "sha256":  "30028635ff6fb32992d913a6b7b3e7b9562f51bcbb412c8f058d79acbb26b41d",
     "deletedAssetsCount":  0,
     "notes":  [
-                  "Se agrega soporte para Nintendo 3DS mediante Azahar.",
-                  "Nueva seccion Nintendo 3DS integrada al carrusel de ZX Retro.",
-                  "Azahar se distribuye automaticamente como runtime controlado.",
-                  "Los juegos de Nintendo 3DS se ejecutan directamente en pantalla completa.",
-                  "Nueva pantalla animada de carga antes de iniciar juegos.",
-                  "Se agregan caratulas, banners, logos y previews para juegos de Nintendo 3DS.",
-                  "Se crea automaticamente la carpeta roms\\3ds sin incluir ni modificar las ROMs del usuario.",
-                  "ROMs, partidas, estados y datos personales permanecen protegidos."
+                  "Hotfix de compatibilidad para usuarios que actualizan desde ZX Retro 0.1.28.",
+                  "Se corrige el bloqueo \u0027Directorio ROM no permitido: roms\\3ds\u0027.",
+                  "La carpeta roms\\3ds ahora se crea localmente desde ZX Retro y no se declara en el manifest.",
+                  "Se vuelven a incluir los 13 assets de Nintendo 3DS para permitir el salto directo 0.1.28 -\u003e 0.1.30.",
+                  "Azahar continua distribuyendose como runtime controlado.",
+                  "Las ROMs de Nintendo 3DS no se empaquetan ni se modifican.",
+                  "Partidas, estados, configuraciones y datos personales permanecen protegidos."
               ]
 }

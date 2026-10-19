@@ -1,11 +1,18 @@
 {
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.28",
-    "packageFile":  "ZX_Retro_Update_0_1_28.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.28/ZX_Retro_Update_0_1_28.zip",
-    "sha256":  "e1713aa8fde6ec2840adb540e02e5b7752403df6bea436b6ad19e371f9171fce",
+    "latestVersion":  "0.1.29",
+    "packageFile":  "ZX_Retro_Update_0_1_29.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.29/ZX_Retro_Update_0_1_29.zip",
+    "sha256":  "8390c5aafd6ed9f9193d275475bf67dd3c73c918e83edba0bcadd114638bfd5f",
     "deletedAssetsCount":  0,
     "notes":  [
-                  "Actualizacion oficial de ZX Retro 0.1.28."
+                  "Se agrega soporte para Nintendo 3DS mediante Azahar.",
+                  "Nueva seccion Nintendo 3DS integrada al carrusel de ZX Retro.",
+                  "Azahar se distribuye automaticamente como runtime controlado.",
+                  "Los juegos de Nintendo 3DS se ejecutan directamente en pantalla completa.",
+                  "Nueva pantalla animada de carga antes de iniciar juegos.",
+                  "Se agregan caratulas, banners, logos y previews para juegos de Nintendo 3DS.",
+                  "Se crea automaticamente la carpeta roms\\3ds sin incluir ni modificar las ROMs del usuario.",
+                  "ROMs, partidas, estados y datos personales permanecen protegidos."
               ]
 }

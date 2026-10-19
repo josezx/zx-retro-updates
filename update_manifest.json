@@ -1,17 +1,11 @@
 {
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.30",
-    "packageFile":  "ZX_Retro_Update_0_1_30.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.30/ZX_Retro_Update_0_1_30.zip",
-    "sha256":  "30028635ff6fb32992d913a6b7b3e7b9562f51bcbb412c8f058d79acbb26b41d",
+    "latestVersion":  "0.1.31",
+    "packageFile":  "ZX_Retro_Update_0_1_31.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.31/ZX_Retro_Update_0_1_31.zip",
+    "sha256":  "e9cba859b496ab8b21ec04c7d38f899f50c88f4882f362658925eeab7a24a004",
     "deletedAssetsCount":  0,
     "notes":  [
-                  "Hotfix de compatibilidad para usuarios que actualizan desde ZX Retro 0.1.28.",
-                  "Se corrige el bloqueo \u0027Directorio ROM no permitido: roms\\3ds\u0027.",
-                  "La carpeta roms\\3ds ahora se crea localmente desde ZX Retro y no se declara en el manifest.",
-                  "Se vuelven a incluir los 13 assets de Nintendo 3DS para permitir el salto directo 0.1.28 -\u003e 0.1.30.",
-                  "Azahar continua distribuyendose como runtime controlado.",
-                  "Las ROMs de Nintendo 3DS no se empaquetan ni se modifican.",
-                  "Partidas, estados, configuraciones y datos personales permanecen protegidos."
+                  "Actualizacion oficial de ZX Retro 0.1.31."
               ]
 }

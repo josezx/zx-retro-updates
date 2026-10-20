@@ -1,11 +1,11 @@
 {
     "product":  "ZX Retro",
-    "latestVersion":  "0.1.31",
-    "packageFile":  "ZX_Retro_Update_0_1_31.zip",
-    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.31/ZX_Retro_Update_0_1_31.zip",
-    "sha256":  "e9cba859b496ab8b21ec04c7d38f899f50c88f4882f362658925eeab7a24a004",
+    "latestVersion":  "0.1.32",
+    "packageFile":  "ZX_Retro_Update_0_1_32.zip",
+    "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.32/ZX_Retro_Update_0_1_32.zip",
+    "sha256":  "fbc2c4ef4052b70e6e0b6a7bcc2097019fe44d3cc9451c3c0007ad4103184eba",
     "deletedAssetsCount":  0,
     "notes":  [
-                  "Actualizacion oficial de ZX Retro 0.1.31."
+                  "Actualizacion oficial de ZX Retro 0.1.32."
               ]
 }

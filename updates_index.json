@@ -3,8 +3,8 @@
     "schemaVersion":  1,
     "channel":  "stable",
     "minimumVersion":  "0.1.32",
-    "latestVersion":  "0.1.34",
-    "updatedAt":  "2026-10-24T21:14:05.5106929-04:00",
+    "latestVersion":  "0.1.35",
+    "updatedAt":  "2026-11-02T11:35:09.9725898-04:00",
     "releases":  [
                      {
                          "fromVersion":  "0.1.32",
@@ -29,6 +29,23 @@
                                        "Agrega soporte para ports nativos y juegos por enlace"
                                    ],
                          "createdAt":  "2026-10-24T21:14:05.5106929-04:00"
+                     },
+                     {
+                         "fromVersion":  "0.1.34",
+                         "toVersion":  "0.1.35",
+                         "packageFile":  "ZX_Retro_Update_0_1_35.zip",
+                         "packageUrl":  "https://github.com/josezx/zx-retro-updates/releases/download/v0.1.35/ZX_Retro_Update_0_1_35.zip",
+                         "sha256":  "2ae1098a5babc7ff2964b6f9651bc7ac2b589941877ae35b484633a6bb97a635",
+                         "notes":  [
+                                       "Actualizacion general de assets de juegos",
+                                       "Nuevos banners portadas logos y screenshots",
+                                       "Actualizacion de videos preview.mp4",
+                                       "Actualizacion de metadatos game.ini",
+                                       "Correcciones compiladas del launcher",
+                                       "Restauracion de imagenes faltantes del menu",
+                                       "Preparacion del instalador para ROMs predeterminadas"
+                                   ],
+                         "createdAt":  "2026-11-02T11:35:09.9725898-04:00"
                      }
                  ]
 }
